@@ -29,6 +29,7 @@
   },
   "scripts": {
     "dev": "react-scripts start",
+    "prebuild": "tsc -b",
     "build": "react-scripts build",
     "test": "react-scripts test"
   },
