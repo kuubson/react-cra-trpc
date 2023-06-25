@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
-    "@react-cra-trpc/ui": "*",
+    "@react-cra-trpc/ui": "workspace:*",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "@tanstack/react-query": "^4.29.12",
